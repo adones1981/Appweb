@@ -1,0 +1,28 @@
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 1rem;
+}
+
+#map {
+  border: 3px solid #00ff00;
+  border-radius: 10px;
+}
+
+#busInfo {
+  max-width: 600px;
+  margin: 1rem auto;
+  background: #222;
+  border-left: 6px solid orange;
+  padding: 1rem;
+  border-radius: 10px;
+  text-align: left;
+  min-height: 100px;
+}
+
+.leaflet-container {
+  background: #222;
+}
